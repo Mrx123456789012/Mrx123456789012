@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrx123456789012
+- 👋 Hi, I’m @Md shadan
 - 👀 I’m interested in data science and python and machine larning
 - 🌱 I’m currently learning bsc in data science and beginner in python
 - 💞️ I’m looking to collaborate on ...
